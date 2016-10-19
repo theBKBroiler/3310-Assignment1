@@ -10,8 +10,9 @@ The Objectives of this program are to
 
 3) Count how many numbers in the linked list are larger than 50 (range [50,m])
 
-    a) If there are more than 5 integers that are larger than 50, sort the data in the linked list in a non-decreasing order,        then delete the 5th element
-    b) Otherwise, sort the linked list in a non-increasing order and delete the second element
+a) If there are more than 5 integers that are larger than 50, sort the data in the linked list in a non-decreasing order, then delete the 5th element
+
+b) Otherwise, sort the linked list in a non-increasing order and delete the second element
     
 4) Insert the number 10 to linked list in its correct place (don't destroy the sort-order)
 
